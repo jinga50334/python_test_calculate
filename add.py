@@ -9,3 +9,4 @@ for i in range(1,101,1):
         sum1=sum1+i
 print sum0
 print sum1
+print sum0+sum1
