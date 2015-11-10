@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 sum0=0
 sum1=0
-for i in range(101,0,-1):
+for i in range(100,0,-1):
     if i%2==0:
      sum0=sum0-i
     else:
